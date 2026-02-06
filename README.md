@@ -1,0 +1,2 @@
+# FINAL-GLOBAL
+Earthquakes insights
